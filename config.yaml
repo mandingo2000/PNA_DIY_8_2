@@ -1,0 +1,12 @@
+http:
+  port: "8081"
+  
+accounts:
+  host: "diy-accounts-api.us-w2.cloudhub.io"
+  port: "80"
+  basepath: "/"
+  protocol: "HTTP"
+  client_id: "6d9e329147164bf08a2cc4eeb075252e"
+  client_secret: "B20a21B05dBb4287a7C49076D6E0d377"
+
+vm.queue: "csr_input_queue"
